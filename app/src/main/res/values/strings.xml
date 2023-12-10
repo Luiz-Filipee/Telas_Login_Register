@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginZoologico</string>
+    <string name="login" translatable="false">Register</string>
+    <string name="nome" translatable="false">Nome:</string>
+    <string name="email" translatable="false">Email:</string>
+    <string name="telefone" translatable="false">Telefone:</string>
+    <string name="ja_possui_login" translatable="false">Já possui Login?</string>
+    <string name="login_existent" translatable="false">Login</string>
+    <string name="forgot_senha" translatable="false">Esqueceu sua senha?</string>
+    <string name="recuperar_senha" translatable="false">Recuperar senha</string>
+    <string name="senha" translatable="false">Senha:</string>
+</resources>
